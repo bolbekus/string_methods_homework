@@ -9,4 +9,4 @@ def main(s):
     
     return s.index("x",1,18)
 
-print(main("iphone x is a mobile"))
+print(main("Mobile tpye xiomi"))
