@@ -9,4 +9,4 @@ def main(s):
     
     return s.count('a')
 
-print(main("Mobile development"))
+print(main("Mobile developmenti"))
