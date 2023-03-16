@@ -7,4 +7,6 @@ def main(s):
         int: answer
     """
     
-    return
+    return s.count('a',1,15)
+
+print(main("Mobile development"))
